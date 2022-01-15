@@ -1,0 +1,41 @@
+html {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#top-level, #search-level, #footer-level {
+    text-align: center;
+}
+
+#search-level {
+    background: #EEEEEE;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+}
+
+#td-left {
+    text-align: center;
+    background: #7EE5DA;
+    width: 37%;
+}
+
+#td-mid {
+    text-align: center;
+    background: #70CCC2;
+    font-size: 90%;
+}
+
+#td-right {
+    text-align: center;
+    background: #62B3AA;
+    font-size: 90%;
+}
+
+
